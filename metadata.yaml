@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34321'
     url: http://www.gutenberg.org/2009/agents/34321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30025#Rugs--Oriental-and-Occidental-Antique--amp--ModernA-Handbook-for-Ready-Reference
 gutenberg_issued: '2009-09-19'
 gutenberg_type: Text
 identifiers:
