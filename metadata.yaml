@@ -1,0 +1,27 @@
+_repo: Rugs--Oriental-and-Occidental-Antique--amp--ModernA-Handbook-for-Ready-Reference_30025
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30025-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holt, Rosa Belle
+    gutenberg_agent_id: '34321'
+    url: http://www.gutenberg.org/2009/agents/34321
+description: ''
+gutenberg_issued: '2009-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rugs'
+- !lcsh 'Rugs, Oriental'
+- !lcc 'NK'
+title: 'Rugs: Oriental and Occidental, Antique & Modern
+
+  A Handbook for Ready Reference'
+url: http://www.gutenberg.org/ebooks/30025
